@@ -1,0 +1,21 @@
+img {
+    text-align: center;
+    width: 700px;
+    height: auto;
+    display: block;
+    
+}
+
+h1 {
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+}
+
+a {
+    background-color: red;
+    color: white;
+    display: block;
+    text-align: center;
+}
